@@ -72,7 +72,7 @@ Customise your toggle by passing different values in argument. Add your own cust
 [forks-url]: https://github.com/abdulkarimkhaan/SwiftUIComponents/network/members
 [stars-shield]: https://img.shields.io/github/stars/abdulkarimkhaan/SwiftUIComponents.svg?style=for-the-badge
 [stars-url]: https://github.com/abdulkarimkhaan/SwiftUIComponents/stargazers
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0762C8
 [linkedin-url]: https://www.linkedin.com/in/abdulkarimkhan/
 [issues-shield]: https://img.shields.io/github/issues/abdulkarimkhaan/SwiftUIComponents.svg?style=for-the-badge
 [issues-url]: https://github.com/abdulkarimkhaan/SwiftUIComponents/issues
