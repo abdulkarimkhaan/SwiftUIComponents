@@ -78,5 +78,5 @@ Customise your toggle by passing different values in argument. Add your own cust
 [issues-url]: https://github.com/abdulkarimkhaan/SwiftUIComponents/issues
 [license-shield]: https://img.shields.io/github/license/abdulkarimkhaan/SwiftUIComponents.svg?style=for-the-badge
 [license-url]: https://github.com/abdulkarimkhaan/SwiftUIComponents/blob/master/LICENSE.txt
-[youtube-shield]: https://img.shields.io/badge/-YouTube-red.svg?style=for-the-badge&logo=youtube&colorB=222
+[youtube-shield]: https://img.shields.io/badge/-YouTube-red.svg?style=for-the-badge&logo=youtube&colorB=FF0000
 [youtube-url]: https://www.youtube.com/@abdulkarimkhaan
