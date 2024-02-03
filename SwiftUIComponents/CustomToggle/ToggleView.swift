@@ -38,6 +38,8 @@ struct ToggleView: View {
                 ThumbView(thumbTint: toggleEnabled ? $enabledThumbTint : $disabledThumbTint, thumbImage: toggleEnabled ? $enabledThumbImage : $disabledThumbImage)
                     .offset(x: toggleEnabled ? 0 : -30)
                     .animation(.easeInOut(duration: 0.5), value: toggleEnabled)
+                    .shadow(radius: 10)
+                    .zIndex(1.0)
             }
         }
         .frame(width: 64.0, height: 35.0)

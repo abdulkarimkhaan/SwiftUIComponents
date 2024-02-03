@@ -19,6 +19,7 @@ struct ThumbView: View {
             if let thumbImage = thumbImage {
                 Image(thumbImage)
                     .resizable()
+                    .frame(width: 35.0, height: 35.0)
                     .clipShape(Circle())
             }
         }

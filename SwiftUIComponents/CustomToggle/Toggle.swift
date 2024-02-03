@@ -27,14 +27,14 @@ struct Toggle: View {
                 ///   - disabledThumbImage: To update thumb image when toggle is disabled, we have to pass any image against this. This will override your color. If you want to show color, you must NOT pass this parameter.
                 ToggleView(
                     toggleEnabled: $onToggle,
-                    enabledBackgroundTint: .purple,
-                    disabledBackgroundTint: .white,
-                    enabledBackgroundImage: "ic-day",
-                    disabledBackgroundImage: "ic-night",
+                    enabledBackgroundTint: .yellow,
+                    disabledBackgroundTint: .gray,
+                    /*enabledBackgroundImage: "ic-day",
+                    disabledBackgroundImage: "ic-night",*/
                     enabledThumbTint: .yellow,
-                    disabledThumbTint: .gray/*,
-                    enabledThumbImage: "ic-night",
-                    disabledThumbImage: "ic-day",*/
+                    disabledThumbTint: .gray,
+                    enabledThumbImage: "ic-day",
+                    disabledThumbImage: "ic-night"
                 )
                 Text("Toggle State: \(onToggle.description)")
                     .foregroundStyle(.white)

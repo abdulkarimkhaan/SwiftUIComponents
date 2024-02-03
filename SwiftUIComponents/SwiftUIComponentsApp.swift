@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIComponentsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Toggle()
         }
     }
 }
