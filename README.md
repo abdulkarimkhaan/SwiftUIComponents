@@ -5,11 +5,11 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![YouTube][youtube-shield]][youtube-url]
 
 
 
-# SwiftUIComponents
-## Get SwiftUI Custom Reusable Components in this repository
+# SwiftUI Custom Reusable Components 
 
 ### 1. Custom Toggle View
 
@@ -58,13 +58,13 @@ Customise your toggle by passing different values in argument. Add your own cust
     }
 ```
 
-### Screenshots
+### Screenshot
+<img src="https://github.com/abdulkarimkhaan/SwiftUIComponents/assets/49764851/2ac0a717-6fb5-4075-8e3b-824853012f3c" width="400">
 
-With Background Thumb Image
 
 
-With Background Thumb Color
 
+# !Stay tuned for new custom, cool and reusable components!
 
 [contributors-shield]: https://img.shields.io/github/contributors/abdulkarimkhaan/SwiftUIComponents.svg?style=for-the-badge
 [contributors-url]: https://github.com/abdulkarimkhaan/SwiftUIComponents/graphs/contributors
@@ -78,3 +78,5 @@ With Background Thumb Color
 [issues-url]: https://github.com/abdulkarimkhaan/SwiftUIComponents/issues
 [license-shield]: https://img.shields.io/github/license/abdulkarimkhaan/SwiftUIComponents.svg?style=for-the-badge
 [license-url]: https://github.com/abdulkarimkhaan/SwiftUIComponents/blob/master/LICENSE.txt
+[youtube-shield]: https://img.shields.io/badge/-YouTube-red.svg?style=for-the-badge&logo=youtube&colorB=555
+[youtube-url]: [https://www.linkedin.com/in/abdulkarimkhan/](https://www.youtube.com/@abdulkarimkhaan)https://www.youtube.com/@abdulkarimkhaan
